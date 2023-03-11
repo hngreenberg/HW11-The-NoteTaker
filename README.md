@@ -21,6 +21,12 @@ The front end has been given and the task is to create a back end using Express.
 12. WHEN I click on the Write icon in the navigation at the top of the page
 13. THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+<img width="1413" alt="Screen Shot 2023-03-10 at 9 14 22 PM" src="https://user-images.githubusercontent.com/119267074/224466381-3000ede6-fa15-4a2d-a0e6-c294d1a3fd37.png">
+
+
+<img width="1440" alt="Screen Shot 2023-03-10 at 9 15 34 PM" src="https://user-images.githubusercontent.com/119267074/224466388-f44ab262-4ffd-49ff-9ab0-32bd5f6bcb45.png">
+
+
 Github URL: https://github.com/hngreenberg/HW11-The-NoteTaker
 
 See it live in action at https://serene-badlands-16597.herokuapp.com/! 
