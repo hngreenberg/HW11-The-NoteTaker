@@ -29,4 +29,6 @@ The front end has been given and the task is to create a back end using Express.
 
 Github URL: https://github.com/hngreenberg/HW11-The-NoteTaker
 
-See it live in action at https://serene-badlands-16597.herokuapp.com/! 
+See it live in action at https://serene-badlands-16597.herokuapp.com/
+
+Screen Recording: https://drive.google.com/file/d/19NFTHThVJz12GpLkAZmTTe_2CC4DpGeT/view
